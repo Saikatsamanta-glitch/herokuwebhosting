@@ -1,0 +1,17 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "First class of Express js",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+
+  },
+  "author": "Saikat Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  }
+}
